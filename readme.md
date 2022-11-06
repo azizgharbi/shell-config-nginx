@@ -3,6 +3,6 @@
 
 ### steps:
 
-- Create a hostname` in /etc/hosts`.
+- Create a hostname in `/etc/hosts`.
 - chmod -x setup.sh.
 - Run `./setup.sh`.
